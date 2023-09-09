@@ -1,14 +1,21 @@
 class Solution {
     public int combinationSum4(int[] nums, int target) {
-        int [] dp=new int[target+1];
-        dp[0]=1;
-        for(int i=1;i<=target;i++){
-            for(int num:nums){
-                if(i-num>=0){
-                    dp[i]+=dp[i-num];
-                }
-            }
+        return permutations(nums, target, new Integer[target+1]);
+    }
+    public int permutations(int [] nums,int target,Integer [] dp){
+        if(target==0){
+            return 1;
         }
-        return dp[target];
+        if(target<0){
+            return 0;
+        }
+        if(dp[target]!=null){
+            return dp[target];
+        }
+        int count=0;
+        for(int i=0;i<nums.length;i++){
+            count+=permutations(nums,target-nums[i],dp);
+        }
+        return dp[target]=count;
     }
 }
