@@ -1,22 +1,18 @@
 class Solution {
     public boolean isSubsequence(String s, String t) {
-        if(s.length()==0){
-            return true;
-        }
-        if(s.length()>t.length()){
+        if((s!=null && t==null)||(s==null && t!=null) ||(s.length()>0 && t.length()==0) ){
             return false;
         }
-        int k=0;
-        for(int i=0;i<t.length();i++){
-            if(s.charAt(k)==t.charAt(i)){
-                k++;
-            }
-            if(k==s.length()){
-                break;
-            }
-        }
-        if(k==s.length()){
+        if((s.length()==0 && t.length()>0) || (s.length()==0 &&t.length()==0)){
             return true;
+        }
+        Stack<Character> stack1=new Stack();
+        for(int i=0;i<s.length();i++) stack1.push(s.charAt(i));
+        for(int i=t.length()-1;i>=0;i--){
+            if(stack1.peek()==t.charAt(i)) stack1.pop();
+            if(stack1.isEmpty()){
+                return true;
+            }
         }
         return false;
     }
