@@ -5,11 +5,9 @@
  */
 var map = function(arr, fn) {
     const transformedArr=[];
-    let index=0;
-    for(const element of arr){
+    arr.forEach((element,index) => {
         transformedArr[index]=fn(element,index);
-        index++;
-    }
+    });
     return transformedArr;
-
+    
 };
