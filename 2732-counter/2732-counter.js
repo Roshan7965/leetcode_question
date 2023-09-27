@@ -4,11 +4,8 @@
  */
 var createCounter = function(n) {
     let count=n;
-    return ()=>{
-        count++;
-        return count-1;
-    }
-};
+    return ()=>n++;
+}
 
 /** 
  * const counter = createCounter(10)
