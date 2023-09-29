@@ -3,19 +3,26 @@
  * @return {Object}
  */
 var expect = function(val) {
-    return{
-        toBe: (val2)=>{
-            if(val2!==val){
-                throw new Error("Not Equal");
-            }else{
-                return true;
-            }
-        },
-        notToBe:(val2) => {
-            if(val===val2) throw new Error("Equal");
-            else return true;
+    function toBe(compair){
+        if(val===compair){
+            return true;
+        }else{
+            throw new Error('Not Equal');
         }
     }
+
+    function notToBe(compair){
+        if(val!==compair){
+            return true;
+        }else{
+            throw new Error("Equal")
+        }
+    }
+    return{
+        toBe,notToBe
+    }
+    
+    
 };
 
 /**
