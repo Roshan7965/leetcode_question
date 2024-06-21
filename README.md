@@ -10,3 +10,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/roshan3517/leetcode_question/tree/master/0344-reverse-string) |
+# Array
+|  |
+| ------- |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/roshan3517/leetcode_question/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+# Hash Table
+|  |
+| ------- |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/roshan3517/leetcode_question/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+# Counting
+|  |
+| ------- |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/roshan3517/leetcode_question/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
