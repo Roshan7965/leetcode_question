@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [1293-three-consecutive-odds](https://github.com/roshan3517/leetcode_question/tree/master/1293-three-consecutive-odds) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/roshan3517/leetcode_question/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 # Hash Table
 |  |
