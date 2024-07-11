@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/roshan3517/leetcode_question/tree/master/0007-reverse-integer) |
 | [1642-water-bottles](https://github.com/roshan3517/leetcode_question/tree/master/1642-water-bottles) |
 ## Simulation
 |  |
