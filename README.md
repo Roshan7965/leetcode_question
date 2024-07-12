@@ -49,9 +49,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/roshan3517/leetcode_question/tree/master/0007-reverse-integer) |
+| [1013-fibonacci-number](https://github.com/roshan3517/leetcode_question/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/roshan3517/leetcode_question/tree/master/1642-water-bottles) |
 ## Simulation
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/roshan3517/leetcode_question/tree/master/1642-water-bottles) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/roshan3517/leetcode_question/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/roshan3517/leetcode_question/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/roshan3517/leetcode_question/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
