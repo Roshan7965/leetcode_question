@@ -1,15 +1,18 @@
 class Solution {
+    Integer []dp;
     public int fib(int n) {
-        //using recursion
-        if(n==0){
-            return 0;
-
+        dp=new Integer[n+1];
+        return fibHelp(n);
+    }
+    public int fibHelp(int n){
+        if(n==0||n==1){
+            return n;
         }
-        if(n==1 ||n==2){
-            return 1;
+        if(dp[n]!=null){
+            return dp[n];
         }
-        else{
-            return fib(n-1)+fib(n-2);
-        }
+        int ans=fibHelp(n-1)+fibHelp(n-2);
+        dp[n]=ans;
+        return ans;
     }
 }
