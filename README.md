@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/roshan3517/leetcode_question/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/roshan3517/leetcode_question/tree/master/0009-palindrome-number) |
 | [1013-fibonacci-number](https://github.com/roshan3517/leetcode_question/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/roshan3517/leetcode_question/tree/master/1642-water-bottles) |
 ## Simulation
