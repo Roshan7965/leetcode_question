@@ -1,19 +1,14 @@
 class Solution {
-    Integer dp[];
     public int fib(int n) {
-        dp=new Integer[n+1];
-        return findHelp(n);
-        
-    }
-    public int findHelp(int n){
-        if(n==1 || n==0){
-            return n;
+        //using recursion
+        if(n==0){
+            return 0;
         }
-        if(dp[n]!=null){
-            return dp[n];
+        if(n==1){
+            return 1;
+        }else{
+            return fib(n-1)+fib(n-2);
         }
-        int ans=findHelp(n-1)+findHelp(n-2);
-        dp[n]=ans;
-        return ans;
+
     }
 }
