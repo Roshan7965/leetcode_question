@@ -1,12 +1,14 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        int n=nums.length;
-        int sum=0;
-        int  s2=n*(n+1)/2;
-        for(int i=0;i<nums.length;i++){
-            sum+=nums[i];
+        ArrayList<Integer> res=new ArrayList<Integer>();
+        for(int num:nums){
+            res.add(num);
         }
-        int missno=s2-sum;
-        return missno;
+        for(int i=0;i<=nums.length;i++){
+            if(!res.contains(i)){
+                return i;
+            }
+        }
+        return -1;
     }
 }
