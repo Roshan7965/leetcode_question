@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/roshan3517/leetcode_question/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/roshan3517/leetcode_question/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/roshan3517/leetcode_question/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/roshan3517/leetcode_question/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/roshan3517/leetcode_question/tree/master/0268-missing-number) |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/roshan3517/leetcode_question/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/roshan3517/leetcode_question/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/roshan3517/leetcode_question/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/roshan3517/leetcode_question/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/roshan3517/leetcode_question/tree/master/0283-move-zeroes) |
@@ -56,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/roshan3517/leetcode_question/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/roshan3517/leetcode_question/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/roshan3517/leetcode_question/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
