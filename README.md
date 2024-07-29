@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/roshan3517/leetcode_question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/roshan3517/leetcode_question/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/roshan3517/leetcode_question/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/roshan3517/leetcode_question/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/roshan3517/leetcode_question/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roshan3517/leetcode_question/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/roshan3517/leetcode_question/tree/master/0054-spiral-matrix) |
 | [1642-water-bottles](https://github.com/roshan3517/leetcode_question/tree/master/1642-water-bottles) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/roshan3517/leetcode_question/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -125,5 +127,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/roshan3517/leetcode_question/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/roshan3517/leetcode_question/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/roshan3517/leetcode_question/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
