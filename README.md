@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/roshan3517/leetcode_question/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/roshan3517/leetcode_question/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/roshan3517/leetcode_question/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/roshan3517/leetcode_question/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roshan3517/leetcode_question/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0007-reverse-integer](https://github.com/roshan3517/leetcode_question/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/roshan3517/leetcode_question/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/roshan3517/leetcode_question/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/roshan3517/leetcode_question/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/roshan3517/leetcode_question/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/roshan3517/leetcode_question/tree/master/1013-fibonacci-number) |
@@ -122,5 +124,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/roshan3517/leetcode_question/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/roshan3517/leetcode_question/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
