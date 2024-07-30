@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/roshan3517/leetcode_question/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/roshan3517/leetcode_question/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/roshan3517/leetcode_question/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/roshan3517/leetcode_question/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/roshan3517/leetcode_question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/roshan3517/leetcode_question/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/roshan3517/leetcode_question/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/roshan3517/leetcode_question/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/roshan3517/leetcode_question/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/roshan3517/leetcode_question/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/roshan3517/leetcode_question/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/roshan3517/leetcode_question/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/roshan3517/leetcode_question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/roshan3517/leetcode_question/tree/master/0560-subarray-sum-equals-k) |
@@ -73,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/roshan3517/leetcode_question/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/roshan3517/leetcode_question/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/roshan3517/leetcode_question/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/roshan3517/leetcode_question/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/roshan3517/leetcode_question/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
@@ -121,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/roshan3517/leetcode_question/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/roshan3517/leetcode_question/tree/master/0229-majority-element-ii) |
 ## Union Find
 |  |
 | ------- |
