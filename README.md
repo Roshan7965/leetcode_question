@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/roshan3517/leetcode_question/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/roshan3517/leetcode_question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/roshan3517/leetcode_question/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/roshan3517/leetcode_question/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/roshan3517/leetcode_question/tree/master/0073-set-matrix-zeroes) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/roshan3517/leetcode_question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/roshan3517/leetcode_question/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/roshan3517/leetcode_question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/roshan3517/leetcode_question/tree/master/0792-binary-search) |
