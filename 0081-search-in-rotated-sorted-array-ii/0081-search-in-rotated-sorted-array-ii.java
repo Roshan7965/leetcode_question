@@ -1,28 +1,30 @@
 class Solution {
     public boolean search(int[] nums, int target) {
-        int start=0, end=nums.length-1;
+        int low=0;
+        int high=nums.length-1;
+        while(low<=high){
+            int mid=low+(high-low)/2;
 
-        while(start<=end){
-            int mid=start+(end-start)/2;
-            if(nums[mid]==target) return true;
-
-            //if thre are duplicate
-            if(nums[start]==nums[mid ] && nums[mid]==nums[end]){
-                start++;
-                end--;
+            if(nums[mid]==target){
+                return true;
             }
-            //left half is stored
-            else if(nums[start]<=nums[mid]){
-                if(target>=nums[start] && target<=nums[mid]){
-                    end=mid-1;
+            //edge case
+            if(nums[low]==nums[mid]&& nums[mid]==nums[high]){
+                low++;
+                high--;
+                continue;
+            }
+            if(nums[low]<=nums[mid]){
+                if(nums[low]<=target && target<=nums[mid]){
+                    high=mid-1;
                 }else{
-                    start=mid+1;
+                    low=mid+1;
                 }
             }else{
-                if(target<=nums[end] && target>=nums[mid]){
-                    start=mid+1;
+                if(nums[mid]<=target && target<=nums[high]){
+                    low=mid+1;
                 }else{
-                    end=mid-1;
+                    high=mid-1;
                 }
             }
         }
