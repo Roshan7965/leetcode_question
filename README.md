@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/roshan3517/leetcode_question/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/roshan3517/leetcode_question/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/roshan3517/leetcode_question/tree/master/1642-water-bottles) |
+| [2032-largest-odd-number-in-string](https://github.com/roshan3517/leetcode_question/tree/master/2032-largest-odd-number-in-string) |
 ## Simulation
 |  |
 | ------- |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/roshan3517/leetcode_question/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/roshan3517/leetcode_question/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/roshan3517/leetcode_question/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/roshan3517/leetcode_question/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -166,4 +168,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/roshan3517/leetcode_question/tree/master/1078-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/roshan3517/leetcode_question/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
