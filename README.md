@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/roshan3517/leetcode_question/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/roshan3517/leetcode_question/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/roshan3517/leetcode_question/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/roshan3517/leetcode_question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/roshan3517/leetcode_question/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/roshan3517/leetcode_question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/roshan3517/leetcode_question/tree/master/0560-subarray-sum-equals-k) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/roshan3517/leetcode_question/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/roshan3517/leetcode_question/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/roshan3517/leetcode_question/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/roshan3517/leetcode_question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/roshan3517/leetcode_question/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/roshan3517/leetcode_question/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/roshan3517/leetcode_question/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/roshan3517/leetcode_question/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/roshan3517/leetcode_question/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/roshan3517/leetcode_question/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/roshan3517/leetcode_question/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/roshan3517/leetcode_question/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/roshan3517/leetcode_question/tree/master/2032-largest-odd-number-in-string) |
