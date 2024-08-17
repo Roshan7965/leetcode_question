@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/roshan3517/leetcode_question/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/roshan3517/leetcode_question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/roshan3517/leetcode_question/tree/master/0560-subarray-sum-equals-k) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/roshan3517/leetcode_question/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/roshan3517/leetcode_question/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/roshan3517/leetcode_question/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/roshan3517/leetcode_question/tree/master/1078-remove-outermost-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/roshan3517/leetcode_question/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/roshan3517/leetcode_question/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
@@ -162,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/roshan3517/leetcode_question/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/roshan3517/leetcode_question/tree/master/0229-majority-element-ii) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/roshan3517/leetcode_question/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Union Find
 |  |
 | ------- |
