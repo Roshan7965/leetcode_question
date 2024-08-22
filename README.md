@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/roshan3517/leetcode_question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/roshan3517/leetcode_question/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/roshan3517/leetcode_question/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/roshan3517/leetcode_question/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/roshan3517/leetcode_question/tree/master/0560-subarray-sum-equals-k) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/roshan3517/leetcode_question/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/roshan3517/leetcode_question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/roshan3517/leetcode_question/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/roshan3517/leetcode_question/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/roshan3517/leetcode_question/tree/master/0451-sort-characters-by-frequency) |
 ## Math
 |  |
 | ------- |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/roshan3517/leetcode_question/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/roshan3517/leetcode_question/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/roshan3517/leetcode_question/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/roshan3517/leetcode_question/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/roshan3517/leetcode_question/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/roshan3517/leetcode_question/tree/master/1078-remove-outermost-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/roshan3517/leetcode_question/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -170,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/roshan3517/leetcode_question/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/roshan3517/leetcode_question/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/roshan3517/leetcode_question/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/roshan3517/leetcode_question/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Union Find
 |  |
@@ -207,4 +211,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/roshan3517/leetcode_question/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/roshan3517/leetcode_question/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/roshan3517/leetcode_question/tree/master/0908-middle-of-the-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/roshan3517/leetcode_question/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/roshan3517/leetcode_question/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
